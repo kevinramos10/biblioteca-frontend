@@ -1,0 +1,59 @@
+.T1{
+  background-color: rgba(35, 163, 142, 0.562);
+  padding: 20px;
+}
+
+button{
+  background-color: rgba(35, 163, 142, 0.562);
+  padding: 8px;
+  margin: 10px;
+  border-radius: 15%;
+  border-color: rgb(102, 8, 114);
+
+  cursor: pointer;
+}
+
+
+.fila{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h3{
+  text-align: right;
+}
+
+.categorias{
+  display: flex;
+  flex-direction: column;
+}
+
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td{
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th{
+  background-color: #f2f2f2;
+}
+
+.pErrores{
+  color: red;
+
+}
