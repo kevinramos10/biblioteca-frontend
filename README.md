@@ -47,7 +47,7 @@ src/
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/biblioteca-ui.git
+git clone https://github.com/kevinramos10/biblioteca-ui.git
 cd biblioteca-ui
 ```
 
